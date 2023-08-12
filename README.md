@@ -20,4 +20,5 @@
 | [2.5nvcc编译流程与GPU计算能力](https://www.bilibili.com/video/BV1sM4y1x7of?p=8&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
 | [2.6CUDA程序兼容性问题](https://www.bilibili.com/video/BV1sM4y1x7of?p=9&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
 | [3.1CUDA矩阵加法运算程序](https://www.bilibili.com/video/BV1sM4y1x7of?p=10&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
-| [3.2CUDA错误检查](https://www.bilibili.com/video/BV1sM4y1x7of?p=11&vd_source=51a76af86bf4fcc9da32a69c092094ea) | [博客地址](https://github.com/sangyc10/CUDA-code/blob/master/3.2lesson/README.md) |
+| [3.2CUDA错误检查](https://www.bilibili.com/video/BV1sM4y1x7of?p=11&vd_source=51a76af86bf4fcc9da32a69c092094ea) | [本节博客地址](https://github.com/sangyc10/CUDA-code/blob/master/3.2lesson/README.md) |
+| 3.3CUDA记时                                                  | [本节博客地址](https://github.com/sangyc10/CUDA-code/blob/master/3.3lesson/README.md) |
