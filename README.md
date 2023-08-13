@@ -22,3 +22,5 @@
 | [3.1CUDA矩阵加法运算程序](https://www.bilibili.com/video/BV1sM4y1x7of?p=10&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
 | [3.2CUDA错误检查](https://www.bilibili.com/video/BV1sM4y1x7of?p=11&vd_source=51a76af86bf4fcc9da32a69c092094ea) | [本节博客地址](https://github.com/sangyc10/CUDA-code/blob/master/3.2lesson/README.md) |
 | [3.3CUDA记时](https://www.bilibili.com/video/BV1sM4y1x7of?p=12&vd_source=51a76af86bf4fcc9da32a69c092094ea) | [本节博客地址](https://github.com/sangyc10/CUDA-code/blob/master/3.3lesson/README.md) |
+| [3.4运行时GPU信息查询](https://www.bilibili.com/video/BV1sM4y1x7of/?p=13&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=51a76af86bf4fcc9da32a69c092094ea) | [本节博客地址](https://github.com/sangyc10/CUDA-code/blob/master/3.4lesson/README.md) |
+
