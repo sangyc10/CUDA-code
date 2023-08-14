@@ -10,7 +10,7 @@
 
 | 视频                                                         |                             博客                             |
 | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| [1.1CUDA简介](https://www.bilibili.com/video/BV1sM4y1x7of/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
+| [1.1CUDA简介](https://www.bilibili.com/video/BV1sM4y1x7of/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=51a76af86bf4fcc9da32a69c092094ea) | [本节博客地址](https://github.com/sangyc10/CUDA-code/blob/master/1.1lesson/README.md) |
 | [1.2CUDA下载安装及测试](https://www.bilibili.com/video/BV1sM4y1x7of?p=2&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
 | [1.3nvidia-smi工具使用](https://www.bilibili.com/video/BV1sM4y1x7of?p=3&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
 | [2.1从C++编程到CUDA编程](https://www.bilibili.com/video/BV1sM4y1x7of?p=4&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
