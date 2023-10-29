@@ -26,4 +26,5 @@
 | [3.5组织线程模型](https://www.bilibili.com/video/BV1sM4y1x7of?p=15&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
 | [4.1GPU硬件资源](https://www.bilibili.com/video/BV1sM4y1x7of?p=16&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
 | [4.2CUDA内存模型概述](https://www.bilibili.com/video/BV1sM4y1x7of?p=17&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
+| [4.3寄存器和本地内存](https://www.bilibili.com/video/BV1sM4y1x7of?p=18&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
 
