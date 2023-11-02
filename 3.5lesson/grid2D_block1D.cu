@@ -11,7 +11,7 @@
 __global__ void addMatrix(int *A, int *B, int *C, const int nx, const int ny)
 {
     int ix = threadIdx.x + blockIdx.x * blockDim.x;
-    int iy = threadIdx.y;
+    int iy = blockIdx.y;
     unsigned int idx = iy * nx + ix;
     if (ix < nx && iy < ny)
     {
